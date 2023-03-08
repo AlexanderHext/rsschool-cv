@@ -43,8 +43,8 @@ const multiplyNumbersFromRange = (num1, num2) => {
 };
 multiplyNumbersFromRange(1, 5);
 ```
-## _My first project CV:_
-https://github.com/AlexanderHext/rsschool-cv/tree/gh-pages
+[My first project CV on github](https://github.com/AlexanderHext/rsschool-cv/tree/gh-pages)
+
 ---
 
 ## _Contact me:_
