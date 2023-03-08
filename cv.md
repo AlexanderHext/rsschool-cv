@@ -1,4 +1,4 @@
-![Здесь должна быть моя фотография](https://i.ibb.co/ZhTtBYk/Gdsfgdsf.jpg "моя фотография")
+![Здесь должна быть моя фотография](https://i.ibb.co/vJxMTG2/Gdsfgdsf.jpg "моя фотография")
 
 # Lementa Alexander
 
@@ -43,7 +43,8 @@ const multiplyNumbersFromRange = (num1, num2) => {
 };
 multiplyNumbersFromRange(1, 5);
 ```
-
+## _My first project CV:_
+https://github.com/AlexanderHext/rsschool-cv/tree/gh-pages
 ---
 
 ## _Contact me:_
