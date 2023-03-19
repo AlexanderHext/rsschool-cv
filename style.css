@@ -39,6 +39,7 @@
   top: 20px;
   background-color: #f1ba48;
   font: 600 40px "Roboto", sans-serif;
+  box-shadow: -5px 5px 5px 0px rgb(40, 40, 40);
 }
 
 .name {
@@ -57,6 +58,7 @@
 .photo {
   width: 30%;
 }
+
 .myImg {
   width: 67%;
 }
@@ -73,23 +75,29 @@
 
 .figureOne {
   height: 35px;
-  width: 220px;
+  width: 250px;
   background-color: #e5e5e5;
   margin-left: -10px;
   margin-top: 30px;
+  text-align: center;
+  border-radius: 0 40px 40px 0;
 }
+
 .figureTwo {
   height: 35px;
-  width: 220px;
+  width: 250px;
   background-color: #e5e5e5;
   margin-left: -10px;
   margin-top: 50px;
+  text-align: center;
+  border-radius: 0 40px 40px 0;
 }
 
 .skills {
   padding-left: 10px;
   height: 100px;
 }
+
 .contentSkills {
   margin-left: 10px;
 }
@@ -120,4 +128,57 @@
 .paraSkills.padTop {
   padding-top: 20px;
   padding-right: 10px;
+}
+
+/*RIGHT COLUMN*/
+
+.column.two {
+  padding-top: 200px;
+}
+
+.rightContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding-top: 90px;
+}
+
+.figureThree {
+  height: 35px;
+  width: 400px;
+  background-color: #d53c3c;
+  font: 600 30px "Roboto", sans-serif;
+  color: #e5e5e5;
+  text-align: center;
+  border-radius: 40px 0 0 40px;
+}
+
+.textAboutMe {
+  padding-top: 20px;
+  text-align: justify;
+  padding-left: 10px;
+  padding-right: 10px;
+  font: 600 30px "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+  color: rgb(56, 56, 56);
+  line-height: 1.4;
+}
+
+.figureFour {
+  margin-top: 30px;
+  height: 35px;
+  width: 400px;
+  background-color: #d53c3c;
+  font: 600 30px "Roboto", sans-serif;
+  color: #e5e5e5;
+  text-align: center;
+  border-radius: 40px 0 0 40px;
+}
+
+.textCode {
+  margin-top: 30px;
+  padding-right: 50px;
+  color: rgb(56, 56, 56);
+  font-size: 16px;
 }
